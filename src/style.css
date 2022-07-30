@@ -1,3 +1,7 @@
+body {
+    background: #f8e8a6;
+}
+
 h1,
 p {
     text-align: center;
@@ -5,4 +9,9 @@ p {
 
 footer {
     text-align: center;
+}
+
+footer a {
+    margin: 0 10px;
+    color: green;
 }
